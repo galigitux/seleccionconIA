@@ -1,0 +1,2 @@
+# seleccionconIA
+No más rotación
